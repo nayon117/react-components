@@ -5,7 +5,8 @@
 
 // import Counter from "./components/Test";
 
-import Navbar from "./components/Navbar";
+import Modal from "./components/Modal";
+// import Navbar from "./components/Navbar";
 
 const App = () => {
 
@@ -15,8 +16,9 @@ const App = () => {
        {/* <Calculater/> */}
        {/* <RandomColor /> */}
        {/* <StarRating /> */}
-       <Navbar  />
+       {/* <Navbar  /> */}
        {/* <Counter/> */}
+       <Modal />
     </div>
   )
 }
